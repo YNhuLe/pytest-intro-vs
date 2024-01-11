@@ -1,1 +1,2 @@
-pytest
+#pytest for testing
+pytest==7.2.1
